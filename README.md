@@ -1,1 +1,2 @@
 # odin-recipes
+This is My first website that I will be building and developing as part of the Odin Project's Course. It's my first project working with HTML to structure and display a recipe website on the web.
